@@ -1,0 +1,6 @@
+Use the C version of startup scripts to run it, however all code is written in Python.
+
+Alternatively, if you have python versions of startup scripts  (which weren't provided 
+as examples so I wasn't sure how to format) cdht.py and cdht are internally identical.
+cdht only exists due to the lack of provided format guidelines for python code
+initialisation scripts so that I could test with the C script.
